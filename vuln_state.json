@@ -1,0 +1,5 @@
+{
+  "sql_injection": false,
+  "auth_bypass": false,
+  "input_issues": false
+}
